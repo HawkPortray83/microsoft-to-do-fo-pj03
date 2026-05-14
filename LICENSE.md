@@ -1,4 +1,4 @@
-#  
+#  Enhance Microsoft To Do for macOS with Microsoft To Do for macOS advanced Integration: voice notes & auto-sync, the #1 integration. Includes voice notes and auto-sync for a
 
 
 
